@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sarjhana, a passionate AI Enthusiast
 
 <!--
 **Sarjhana/Sarjhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
